@@ -7,7 +7,8 @@ let cars = [
     new Car('Camaro'),
     new Car('Focus'),
     new Car('Ferrari'),
-    new Car('Fiat')
+    new Car('Fiat'),
+    new Car('Ford')
 ]
 
 let carSearch = cars.find(function(car) {
